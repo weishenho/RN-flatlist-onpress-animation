@@ -1,3 +1,6 @@
+## About:
+Sliding animation upon press of item in list.
+
 ## Result:
 ![open onpressAnimation.gif](onpressAnimation.gif)
 
